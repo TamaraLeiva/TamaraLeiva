@@ -84,7 +84,7 @@ A personal finance management application designed to help users organize and mo
 
 **Technologies:** `Java 21` · `Spring Boot` · `React` · `Vite` · `MySQL` · `JWT` · `Gemini API` · `OCR`
 
-**Website:**
+**Live Demo:** [MonArgent](https://mon-argent-mu.vercel.app)
 
 ### Protocol MU Evolution — Web Platform
 
